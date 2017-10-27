@@ -1,6 +1,15 @@
 # BetterPlex
 
-## EDGE Project Process
+
+### The Application
+
+The application can be seen at: https://jeffreyhyer.github.io/betterplex/
+
+It is best viewed on a mobile phone or tablet but will work on any device
+with an internet connection.
+
+
+### EDGE Project Process
 
 __Research__
 
